@@ -1,0 +1,15 @@
+flask==2.3.3
+flask-cors==4.0.0
+
+transformers==4.40.1
+diffusers==0.25.1
+torch==2.2.2  
+
+Pillow==10.3.0
+
+requests==2.31.0
+
+pyngrok==6.0.0
+
+accelerate==0.29.3
+safetensors==0.4.3
