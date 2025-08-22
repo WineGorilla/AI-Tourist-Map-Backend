@@ -2,6 +2,8 @@ from flask import Flask
 from flask_cors import CORS
 from pyngrok import ngrok
 from app.routes import main_routes
+from app.models import image_model
+from app.models import text_model
 
 def create_app():
     app = Flask(__name__)
